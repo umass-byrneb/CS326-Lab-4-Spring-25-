@@ -1,4 +1,4 @@
-# Lab Assignment: Forcing and Resolving Merge Conflicts
+# Lab Assignment: Resolving Merge Conflicts
 
 ## Overview
 
